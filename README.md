@@ -1,0 +1,1 @@
+This is Lyndsey's first git project!
